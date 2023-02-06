@@ -93,7 +93,9 @@ HTML, CSS, JAVASCRIPT, JAVA, OARCLE 등 언어들을 활용하여 Spring Framewo
 
 ### 로그인
 - 이메일을 아이디로 사용하여 로그인 처리 
-![로그인 화면](https://user-images.githubusercontent.com/100989788/209433886-01b3ebad-4d57-41b5-911d-ae176a3aa6b5.png)
+![로그인](https://user-images.githubusercontent.com/100989788/216930991-f95b6611-5a63-402c-b9bb-007a982d7906.gif)
+
+
 
 
 ### 메신저
