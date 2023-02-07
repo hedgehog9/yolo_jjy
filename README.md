@@ -148,10 +148,10 @@ HTML, CSS, JAVASCRIPT, JAVA, OARCLE 등 언어들을 활용하여 Spring Framewo
 - 구성원 개별 등록
 ![구성원 개별 등록-2](https://user-images.githubusercontent.com/100989788/216939870-6141c4c0-e6a6-4100-87e2-0654e0e3e7fe.gif)
 
-<br>
-- 구성원 일괄 등록
-![구성원 일괄 등록](https://user-images.githubusercontent.com/100989788/216940012-571554e9-e6d6-41fb-8f89-bbfffd920c16.gif)
 
+- 구성원 일괄 등록
+<br>
+<img width="90%" src="https://user-images.githubusercontent.com/100989788/217153943-0507e5dd-d556-4d39-bf8e-66e1f4036ec9.gif"/>
 
 ### 출퇴근
 - 출근하기 버튼 클릭시 자동으로 시간계산
